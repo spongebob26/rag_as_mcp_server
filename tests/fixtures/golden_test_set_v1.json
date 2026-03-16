@@ -1,0 +1,12 @@
+{
+  "description": "Golden test set for Modular RAG MCP Server evaluation. Contains test queries with expected chunk IDs for IR metrics and optional reference answers for LLM-as-Judge metrics.",
+  "version": "1.0",
+  "test_cases": [
+    {
+      "query": "介绍下陈明爽是谁",
+      "expected_chunk_ids": [],
+      "expected_sources": [],
+      "reference_answer": ""
+    }
+  ]
+}
